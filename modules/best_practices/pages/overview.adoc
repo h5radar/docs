@@ -1,0 +1,6 @@
+= Best practices
+
+We have some advise on how to administrate and manage infrastructure described in:
+
+* xref:administration_best_practices.adoc[Administration]
+* xref:infrastructure_best_practices.adoc[Infrastructure]
