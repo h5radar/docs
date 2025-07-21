@@ -12,11 +12,12 @@ H5Radar application consists of several modules. For an overview of the entire p
 - Configuration examples
 - Best practices and FAQs
 
-## Getting Started
+## Resources
 
-To start using H5Radar, we recommend reviewing the installation and setup instructions provided in the documentation.
-
-For detailed usage scenarios and advanced configurations, explore the various guides and reference materials in this repository.
+- [Website](https://www.h5radar.com)
+- [Documentation](https://docs.h5radar.com)
+- [Live Demo](https://app.h5radar.com)
+- [Blog](https://blog.h5radar.com)
 
 ## Contributing
 
