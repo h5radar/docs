@@ -1,4 +1,6 @@
 = Runtime environment configuration
+:description: Configure Axion runtime: change HTTP port and context path in application.yml to customize H5Radar access URLs and webapp endpoints.
+:keywords: H5Radar, Axion, runtime configuration, HTTP port, context path, application.yml, server setup, localhost, webapp, endpoints
 
 HTTP port and context path can be easily configured in *Axion*.
 

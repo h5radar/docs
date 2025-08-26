@@ -1,4 +1,6 @@
 = Installation from sources
+:description: Install Axion from sources: download code, check prerequisites, build with Maven, run Spring Boot, and start H5Radar at localhost:8080.
+:keywords: H5Radar, Axion, installation, sources, GitHub, Maven, build, Spring Boot, Java, prerequisites, localhost, setup, run
 
 . Download the latest version from https://github.com/a5lab/axion/releases[GitHub].
 . Make sure that you have installed all the required packages that are mentioned in the xref:system-requirements.adoc[System requirements] section and xref:installation-prerequisites.adoc[Installation prerequisites].

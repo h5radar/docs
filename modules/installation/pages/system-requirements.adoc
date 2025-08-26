@@ -1,4 +1,6 @@
 = System requirements
+:description: H5Radar System requirements: Axion needs 2+ CPUs, 2GB RAM, 100MB disk, Java 17 JRE/JDK, and modern browsers like Chrome, Firefox, Safari, or Edge.
+:keywords: H5Radar, Axion, system requirements, hardware, software, CPU, RAM, disk space, Java 17, JRE, JDK, Windows, Linux, MacOS, Chrome, Firefox, Safari, Edge
 
 Make sure that your system meets our recommended hardware and software requirements.
 

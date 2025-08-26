@@ -1,4 +1,6 @@
 = Administration
+:description: H5Radar Administration: monitoring Axion with Prometheus, audit logs, and log files to keep servers stable and secure.
+:keywords: H5Radar, Axion, administration, monitoring, Prometheus, audit log, logging, troubleshooting, server health
 
 == Monitoring
 

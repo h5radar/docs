@@ -1,4 +1,6 @@
 = Database configuration
+:description: H5Radar Database configuration: use PostgreSQL for production or H2 for development. Configure DB via application.yml or command line.
+:keywords: H5Radar, Axion, database, configuration, PostgreSQL, H2, application.yml, command line, DB setup, credentials, user, password, privileges
 
 *Axion* supported databases (DB):
 

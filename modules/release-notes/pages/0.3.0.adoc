@@ -1,4 +1,6 @@
 = 0.3.0
+:description: H5Radar Axion 0.3.0 release notes: fixes to validators, ring/segment operations, refactoring, tests, and improvements to radar data integrity.
+:keywords: H5Radar, Axion, release notes, version 0.3.0, changelog, validators, radar, rings, segments, refactoring, tests, data integrity, bug fixes
 
 Changelog:
 

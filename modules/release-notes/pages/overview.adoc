@@ -1,4 +1,6 @@
 = Release notes
+:description: H5Radar Release notes: track Axion updates, features, fixes, and improvements across versions 0.3.0, 0.2.0, 0.1.0 and future releases.
+:keywords: H5Radar, Axion, release notes, versions, updates, changelog, features, fixes, improvements, 0.3.0, 0.2.0, 0.1.0
 
 * xref:0.3.0.adoc[0.3.0 – October 2023]
 * xref:0.2.0.adoc[0.2.0 – June 2023]

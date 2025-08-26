@@ -1,4 +1,6 @@
 = Installation prerequisites
+:description: H5Radar installation prerequisites: JDK 19, Maven, Node.js, uglifycss, uglifyjs. Ensure environment paths are set for Axion build and run.
+:keywords: H5Radar, Axion, installation, prerequisites, JDK, Java, Maven, Node.js, uglifycss, uglifyjs, environment variables, setup
 
 To run *Axion* you need to have next packages installed:
 

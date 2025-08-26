@@ -1,4 +1,6 @@
 = 0.2.0
+:description: H5Radar Axion 0.2.0 release notes: base features added, custom error page introduced, and support for multiple technology radars implemented.
+:keywords: H5Radar, Axion, release notes, version 0.2.0, changelog, base features, custom error page, multiple radars, technology radar
 
 Changelog:
 
