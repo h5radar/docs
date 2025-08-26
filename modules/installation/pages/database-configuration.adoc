@@ -32,7 +32,7 @@ Grant privileges to the user:
 GRANT ALL PRIVILEGES ON DATABASE axion TO axion;
 ....
 
-If you desire to use different configurations fo DB make sure to add them to _application.yml_ or pass them with _-D_ key when launching *Axion* (see xref:application_configuration.adoc[Application configuration]).
+If you desire to use different configurations fo DB make sure to add them to _application.yml_ or pass them with _-D_ key when launching *Axion* (see xref:application-configuration.adoc[Application configuration]).
 
 == H2 configuration
 H2 is configured automatically when launching *Axion*.

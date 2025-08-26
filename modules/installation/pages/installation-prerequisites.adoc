@@ -33,4 +33,4 @@ npm install -gt uglify-js uglifycss
 ....
 ====
 
-*Axion* supports different databases, H2 and PostgreSQL. See xref:database_configuration.adoc[database configuration].
+*Axion* supports different databases, H2 and PostgreSQL. See xref:database-configuration.adoc[database configuration].
