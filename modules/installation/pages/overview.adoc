@@ -1,3 +1,5 @@
 = Installation
+:description: H5Radar Installation: check system requirements before installing Axion. Choose binaries for production or sources for development.
+:keywords: H5Radar, Axion, installation, setup, system requirements, installation methods, binaries, sources, deployment, configuration
 
-Before proceeding to xref:installation_methods.adoc[install] *axion*, make sure, that your system meets the xref:system_requirements.adoc[requirements].
+Before proceeding to xref:installation-methods.adoc[install] *axion*, make sure, that your system meets the xref:system-requirements.adoc[requirements].

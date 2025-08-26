@@ -1,3 +1,5 @@
 = Usage
+:description: H5Radar Usage: learn how to set up Axion for individual use, configure your first radar, and start working with technologies and blips.
+:keywords: H5Radar, Axion, usage, setup, individual use, radar, configuration, technologies, blips, getting started
 
 Here we describe how to setup *Axion* for individual use.

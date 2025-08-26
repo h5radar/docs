@@ -1,4 +1,6 @@
 = Infrastructure
+:description: H5Radar Infrastructure: back up databases, upgrade Axion safely, run as a service, and use proxies or load balancers for reliability.
+:keywords: H5Radar, Axion, infrastructure, backup, upgrade, service, reverse proxy, load balancer, SSL termination, server performance
 
 Some advise on how to maintain your app.
 

@@ -1,0 +1,8 @@
+= 0.1.0 
+:description: H5Radar Axion 0.1.0 release notes: initial version with basic technology radar functionality for creation, configuration, and deletion.
+:keywords: H5Radar, Axion, release notes, version 0.1.0, changelog, initial release, technology radar, creation, configuration, deletion
+
+Changelog:
+
+* Basic technical radar functionality: creation, configuration and deletion
+ф

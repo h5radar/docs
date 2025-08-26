@@ -1,0 +1,8 @@
+= Best practices
+:description: H5Radar Best Practices: tips for administration and infrastructure to monitor, upgrade, back up, and secure Axion deployments.
+:keywords: H5Radar, Axion, best practices, administration, infrastructure, monitoring, upgrades, backups, security, server management
+
+We have some advise on how to administrate and manage infrastructure described in:
+
+* xref:administration-best-practices.adoc[Administration]
+* xref:infrastructure-best-practices.adoc[Infrastructure]

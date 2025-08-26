@@ -1,0 +1,10 @@
+= Installation methods
+:description: H5Radar installation methods: run Axion from binaries for production or build from sources for development and improvement.
+:keywords: H5Radar, Axion, installation methods, binaries, sources, GitHub, setup, development, production, installation guide
+
+Supported installation methods are
+
+* xref:installation-from-binaries.adoc[Installation from binaries]
+* xref:installation-from-sources.adoc[Installatino from sources]
+
+Use installation from source files only for radar development and improvement. For productive use, consider installing from binaries.

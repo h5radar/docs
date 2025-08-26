@@ -1,5 +1,6 @@
 = Application configuration
-:source-highlighter: highlightjs
+:description: H5Radar Application configuration: set Axion parameters via command line or application.yml for logging, server, database, and monitoring.
+:keywords: H5Radar, Axion, configuration, application.yml, command line, parameters, logging, server, database, monitoring, Prometheus, setup
 
 For *Axion* configuration, use on of the methods described below:
 

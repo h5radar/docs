@@ -1,4 +1,6 @@
 = Concepts
+:description: H5Radar Concepts: learn how to create and configure Axion radars with tenants, technologies, rings, segments, and technology blips.
+:keywords: H5Radar, Axion, concepts, radar, configuration, tenants, technologies, rings, segments, technology blips, create, edit, manage
 
 To start using *Axion* you need to create a radar.
 

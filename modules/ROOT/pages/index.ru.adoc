@@ -1,0 +1,10 @@
+= Technology radar
+:description: Технологический радар H5Radar (Axion): карта технологий, фреймворков и инструментов. Помогает разработчикам, архитекторам и менеджерам планировать и улучшать продукты.
+:keywords: H5Radar, технологический радар, Axion, качество продукта, кодовая база, технологический стек, фреймворки, языки программирования, лицензии, управление рисками, планирование, лучшие практики
+:navtitle: Обзор продукта
+
+Technology radar (*Axion*) is irreplaceable when working on many products, and many tools, frameworks and programming languages are used for development. *Axion* creates a complete map of the technology stack, down to the designation of the selected landscape, which makes it indispensable for developers, architects and managers.
+
+See how to xref:installation:overview.adoc[install] and start xref:usage:overview.adoc[using] *Axion*.
+
+We also have some  recommendations on how to work with *Axion* in our xref:best-practices:overview.adoc[best practice] section.

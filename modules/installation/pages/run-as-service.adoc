@@ -1,4 +1,6 @@
 = Run as service
+:description: Run Axion as a service on Linux using systemd. Create a unit file, configure PostgreSQL dependency, and manage H5Radar via systemctl.
+:keywords: H5Radar, Axion, run as service, Linux, systemd, unit file, PostgreSQL, H2, daemon-reload, systemctl, service management, automation
 
 *Axion* can be set up to run as service. 
 
